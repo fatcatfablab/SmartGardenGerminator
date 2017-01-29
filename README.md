@@ -3,7 +3,7 @@
 ## Control modules for general plant care
 ## Germinator
 
-    Connected controlled environment for seedlings
+   Connected controlled environment for seedlings
 ## Baby Greenzer
 ### Connected controlled environment for baby greens
 
